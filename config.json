@@ -1,0 +1,9 @@
+{
+    "subscription_id": "4757a581-f726-4d38-84e9-e83323061c49",
+
+    "resource_group": "mL-model-deployment-rag",
+    "workspace_name": "deploy-sklearn-model-ws",
+    "region": "Canada Central "
+
+    
+}
