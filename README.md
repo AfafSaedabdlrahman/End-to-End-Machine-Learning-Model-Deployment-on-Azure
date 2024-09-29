@@ -25,14 +25,6 @@ Before starting, ensure you have the following:
 
 ## **Environment Setup**
 
-1. **Clone the Repository:**
-   Download the project files to your local machine:
-
-   ```bash
-   git clone https://github.com/<username>/azure-ml-deployment.git
-   cd azure-ml-deployment
-   ```
-
 2. **Create a Virtual Environment:**
    Set up a virtual environment to manage dependencies:
 
